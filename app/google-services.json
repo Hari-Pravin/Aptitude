@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "185231221436",
+    "firebase_url": "https://aptitude-974d3.firebaseio.com",
+    "project_id": "aptitude-974d3",
+    "storage_bucket": "aptitude-974d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185231221436:android:44a450228d291c72",
+        "android_client_info": {
+          "package_name": "com.hfad.aptitude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185231221436-du7imah8um0c6qojci8t85nsbu18jp1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpmR9EMHaa1x4l54PwKIgaZs-UKUMm9As"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

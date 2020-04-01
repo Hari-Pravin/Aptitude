@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cover"
+    android:orientation="vertical"
+
+    android:background="@drawable/gr"
+
+    >
+
+
+    <Button
+        android:id="@+id/average"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        android:background="#000000"
+        android:onClick="clicked"
+        android:text="average"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/ages"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="#000000"
+        android:onClick="clicked"
+        android:text="ages"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        />
+
+    <Button
+        android:id="@+id/r_p"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="#000000"
+        android:onClick="clicked"
+        android:text="ratio and proportion"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        />
+    <Button
+        android:id="@+id/others"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="#000000"
+        android:onClick="clicked"
+        android:text="others"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        />
+
+</LinearLayout>
